@@ -1,1 +1,7 @@
-
+jms:
+  host: ""
+  producerName: ""
+  topic: ""
+  user: ""
+  password: ""
+  addresss: ""
