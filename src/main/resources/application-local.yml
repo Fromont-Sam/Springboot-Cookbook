@@ -1,5 +1,5 @@
 jms:
-  host: ""
+  host: "host"
   producerName: ""
   topic: ""
   user: ""
