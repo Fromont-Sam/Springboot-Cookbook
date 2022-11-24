@@ -15,9 +15,6 @@ import javax.validation.Valid;
 @RequestMapping("/api")
 public class FileGeneratorController {
 
-
-    //TODO : custom error message in Response
-
     @Autowired
     private FileGeneratorService fileGeneratorService;
 
